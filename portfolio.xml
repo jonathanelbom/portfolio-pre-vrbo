@@ -9,10 +9,19 @@
 	<work>
 		<category id="featured">
 			<text id="title">Featured</text>
+			<project id="abbi">
+				<text id="title">ABBI</text>
+				<text id="role">Lead UI/UX, Senior Front-End Developer</text>
+				<text id="descr"><![CDATA[This is a content authoring, banking, and form building tool used to author QTI compliant assessment content. The first pass of the tool is focused on creating authoring modules and the basic functionality for creating, editing, and reviewing assessment content authored in or imported into ABBI.<br/><br/>This is a RESTful single page web application that, on the client side, uses Backbone.js, Underscore.js, Require.js, SASS, Bootstap, JQuery/UI/jqGrid, Font Awesome, and the TinyMCE rich text editor. For build automation and management, we use Grunt and Bower.]]></text>
+				<asset id="abbi1" type="image" uri="abbi_1.jpg" weight="33" preload="true"/>
+				<asset id="abbi2" type="image" uri="abbi_2.jpg" weight="33" preload="true"/>
+				<asset id="abbi3" type="image" uri="abbi_3.jpg" weight="33" preload="true"/>
+				<link id="" url="http://abbi.pearson.com">View Project</link>
+			</project>
 			<project id="cmap">
 				<text id="title">MentalModeler</text>
-				<text id="role">Lead Development, Visual Designer, and Interaction Designer</text>
-				<text id="descr"><![CDATA[This is a prototyped developed for a science professor at the University of Honolulu, who is developing software for creating qualitative models used for a variety of purposes. He needed a concept mapping tool that was limited in scope to his needs and provided a very intuitive user experience. Once funding goes through, this will be developed into an AIR and mobile app used to create, save, and modify these concept maps that are then used to run time-based, fuzzy logic scenarios whose results are then analyzed.<br/><br/>After gaining traction with the concept mapping tool, I was then employed to build a web-based version of their .net desktop app, which integrated with the flash concept mapping tool. Eventually that will be ported to javascript, too.<br/><br/><p>I also made a small one-page scroller promotional site for the mental modeler, where new users could register for free access to the tool.]]></text>
+				<text id="role">Lead Developer (JavaScript and ActionScript), Visual Designer, and Interaction Designer</text>
+				<text id="descr"><![CDATA[This is a prototyped developed for a science professor at the University of Honolulu, who is developing software for creating qualitative models used for a variety of purposes. He needed a concept mapping tool that was limited in scope to his needs and provided a very intuitive user experience. Once funding goes through, this will be developed into an AIR and mobile app used to create, save, and modify these concept maps that are then used to run time-based, fuzzy logic scenarios whose results are then analyzed.<br/><br/>After gaining traction with the concept mapping tool, I was then employed to build a web-based version of their .net desktop app, which integrated with the flash concept mapping tool. Eventually that will be ported to javascript, too.<br/><br/><p>I also made a small one-page scroller promotional site for the mental modeler, where new users could register for free access to the tool, as well as a similarly styled one-page scroller site for the Principal Investigator's UMass Boston Human-Environment Interactions Lab. The lab site is optimized for mobile.]]></text>
 				<asset id="mmw1" type="image" uri="mentalmodeler_web.jpg" weight="33" preload="true"/>
 				<asset id="mm1" type="image" uri="mm_scenario_1.jpg" weight="33" preload="true"/>
 				<asset id="mm2" type="image" uri="mm_scenario_2.jpg" weight="33" preload="true"/>
@@ -20,16 +29,18 @@
 				<asset id="mm4" type="image" uri="mm_scenario_4.jpg" weight="33" preload="true"/>
 				<asset id="mm1" type="image" uri="mentalmodeler.jpg" weight="33" preload="true"/>
 				<link id="" url="http://mentalmodeler.com/scenario">Concept Mapping Tool</link>
+				<link id="" url="http://jonnybomb.com/umasslab">Human-Environment Interactions Lab</link>
 				<link id="" url="http://mentalmodeler.com">Promotional Site</link>
 			</project>
 			<project id="beats">
 				<text id="title">Beats Music Sentence Share</text>
 				<text id="role">Front-End Developer (HTML/Javascript/CSS) </text>
-				<text id="descr">For a SXSW 2014 Hackday, my buddy at Beats got some friends together to riff off their "sentence player" and we made a sentence sharing twitter image posting mobile web app.  Unlike the sentence player, we added a "Write your own" option to solidify the MadLibs feel. I got to play a little with CSS3 3D and keyframe animations.</text>
+				<text id="descr">For a SXSW 2014 Hackday, my buddy at Beats got some friends together to riff off their "sentence player" and we made a sentence sharing twitter image posting mobile web app.  Unlike the sentence player, we added a "Write your own" option to solidify the MadLibs feel. I got to play a little with CSS3 3D and keyframe animations. After their acquisition by Apple, Beats took this site down.</text>
 				<asset id="beats_3" type="image" uri="beats_3.png" weight="33" preload="true"/>
 				<asset id="beats_2" type="image" uri="beats_1.png" weight="33" preload="true"/>
 				<asset id="beats_1" type="image" uri="beats_2.png" weight="33" preload="true"/>
-				<link id="" url="http://sentenceshare.beatsmusic.com/">View Project</link>
+				<link id="" url="https://twitter.com/hashtag/beatssentence?f=realtime&amp;src=hash">View people's #BeatsSentences</link>
+				<!-- <link id="" url="http://sentenceshare.beatsmusic.com/">View Project</link> -->
 			</project>
 			<project id="interactiverfp">
 				<text id="title">Springbox Interactive RFP</text>
