@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+	<globals>
+		<property id="resume_url" value="JonathanElbom_Resume.pdf" />
+		<property id="mailto" value="mailto:jb@jonnybomb.com" />
+		<property id="image_path" value="images/" />
+	</globals>
+	
+	<work>
+		<category id="featured">
+			<text id="title">Featured</text>
+			<project id="cmap">
+				<text id="title">MentalModeler</text>
+				<text id="role">Lead Development, Visual Designer, and Interaction Designer</text>
+				<text id="descr"><![CDATA[This is a prototyped developed for a science professor at the University of Honolulu, who is developing software for creating qualitative models used for a variety of purposes. He needed a concept mapping tool that was limited in scope to his needs and provided a very intuitive user experience. Once funding goes through, this will be developed into an AIR and mobile app used to create, save, and modify these concept maps that are then used to run time-based, fuzzy logic scenarios whose results are then analyzed.<br/><br/>After gaining traction with the concept mapping tool, I was then employed to build a web-based version of their .net desktop app, which integrated with the flash concept mapping tool. Eventually that will be ported to javascript, too.<br/><br/><p>I also made a small one-page scroller promotional site for the mental modeler, where new users could register for free access to the tool.]]></text>
+				<asset id="mmw1" type="image" uri="mentalmodeler_web.jpg" weight="33" preload="true"/>
+				<asset id="mm1" type="image" uri="mm_scenario_1.jpg" weight="33" preload="true"/>
+				<asset id="mm2" type="image" uri="mm_scenario_2.jpg" weight="33" preload="true"/>
+				<asset id="mm3" type="image" uri="mm_scenario_3.jpg" weight="33" preload="true"/>
+				<asset id="mm4" type="image" uri="mm_scenario_4.jpg" weight="33" preload="true"/>
+				<asset id="mm1" type="image" uri="mentalmodeler.jpg" weight="33" preload="true"/>
+				<link id="" url="http://mentalmodeler.com/scenario">Concept Mapping Tool</link>
+				<link id="" url="http://mentalmodeler.com">Promotional Site</link>
+			</project>
+			<project id="beats">
+				<text id="title">Beats Music Sentence Share</text>
+				<text id="role">Front-End Developer (HTML/Javascript/CSS) </text>
+				<text id="descr">For a SXSW 2014 Hackday, my buddy at Beats got some friends together to riff off their "sentence player" and we made a sentence sharing twitter image posting mobile web app.  Unlike the sentence player, we added a "Write your own" option to solidify the MadLibs feel. I got to play a little with CSS3 3D and keyframe animations.</text>
+				<asset id="beats_3" type="image" uri="beats_3.png" weight="33" preload="true"/>
+				<asset id="beats_2" type="image" uri="beats_1.png" weight="33" preload="true"/>
+				<asset id="beats_1" type="image" uri="beats_2.png" weight="33" preload="true"/>
+				<link id="" url="http://sentenceshare.beatsmusic.com/">View Project</link>
+			</project>
+			<project id="interactiverfp">
+				<text id="title">Springbox Interactive RFP</text>
+				<text id="role">Lead Developer</text>
+				<text id="descr"><![CDATA[This is a project we created so that Springbox could have an interactive piece to send out to potential clients to introduce them to our team, or philosophy, and some of our previous work.<br><br>I concepted and developed the intro and the shell and worked on most of the content sections. This was my first foray into native Flash 3D, and i was particularly please with my "blast of cards in the wind" intro.]]></text>
+				<asset id="" type="image" uri="sb_interactiverfp.jpg" weight="40" preload="true"/>
+				<link id="" url="http://portfolio.jonnybomb.com/work/springbox/interactiverfp/">View Project (Flash Player required)</link>
+			</project>
+			<project id="swagball">
+				<text id="title">Dell Swag Ball</text>
+				<text id="role">Lead Developer and Co-Creator</text>
+				<text id="descr"><![CDATA[Swag Ball is the first game created for the Dell Lounge Swag Arcade, an old style arcade where user can play casual games and earn tickets to be entered into the daily raffle for great prizes (like an XBox 360, Dell Net-books, etc.). The Arcade came complete with prize counter and log-in, but alas, Dell had over estimated their funding levels, and Swag Ball has since been relegated to a mere facebook app with no prizes.<br><br>I came up with the original idea to do a Skee Ball style game, and worked with the creative team at Springbox to help flesh out the Arcade metaphor.]]></text>
+				<asset id="" type="image" uri="dell_swagball.jpg" weight="64" preload="true"/>
+				<link id="" url="http://portfolio.jonnybomb.com/work/dell/swagarcade/">View Project (Flash Player required)</link>
+			</project>
+			<project id="magicaldash">
+				<text id="title">Disney/Verizon Magical Dash</text>
+				<text id="role">Lead Developer</text>
+				<text id="descr">Verizon and Disney needed a mini site to showcase the new Verizon DisneyLand mobile app. To do so, we created a time-based game that abstracts the main features from the mobile app into a jump through the park adventure where the user has to visit all the spots on their itinerary before the parl closes. The main challenge in this project was coming up with a navigation mechanism that allows users to easily move through the vast park in a fun and engaging manner.</text>
+				<asset id="" type="image" uri="disney_magicaldash.jpg" weight="68" preload="true"/>
+				<link id="" url="http://portfolio.jonnybomb.com/work/disney">View Project (Flash Player required)</link>
+			</project>
+			<project id="steameffect">
+				<text id="title">LG Steam Particle System Prototype</text>
+				<text id="role">Lead Developer</text>
+				<text id="descr">This was the prototype for the steam particle system developed for the LG microsite. In this prototype, I linked sliders to all the different control parameters for the steam particle system so that i could easily tweak the settings to create the most realistic steam possible.</text>
+				<asset id="" type="image" uri="lg_steamparticles.jpg" weight="24" preload="true"/>
+				<link id="" url="http://portfolio.jonnybomb.com/work/lg/steameffect">View Prototype (Flash Player required)</link>
+			</project>
+			<project id="nascar">
+				<text id="title">Nascar Sweepstakes</text>
+				<text id="role">Lead Developer</text>
+				<text id="descr">This site was a redesign of the previous years sweepstakes website, though this version's main focus was a drag and drop mini game highlighting all of nascars partners in a much more engaging and interactive manner. This site won the 2009 Business-to-Consumer Automotive Communications Award.</text>
+				<asset id="" type="image" uri="nascar.jpg" weight="56" preload="true"/>
+				<link id="" url="http://portfolio.jonnybomb.com/work/nascar">View Project (Flash Player required)</link>
+			</project>
+		</category>
+		<!--
+		<category id="banners">
+			<text id="title">Banners</text>
+			<project id="allergiene">
+				<text id="title">Banners</text>
+				<text id="role">Sr. Rich Media Devolper</text>
+				<text id="descr"></text>
+				<link id="" url="http://portfolio.jonnybomb.com/work/banners/S&J_ribbon_300x250.html">Dell Lounge Sound and Jury 300x250</link>
+				<link id="" url="http://portfolio.jonnybomb.com/work/banners/S&J_ribbon_728x90.html">Dell Lounge Sound and Jury 728x90</link>
+				<link id="" url="http://portfolio.jonnybomb.com/work/banners/xgames_skater_300x250.html">Dell Lounge XGames Skater 300x250</link>
+				<link id="" url="http://portfolio.jonnybomb.com/work/banners/xgames_motorx_300x250.html">Dell Lounge XGames MotorX 300x250</link>
+				<link id="" url="http://portfolio.jonnybomb.com/work/banners/dell_lolla_300x250.html">Dell Lollapalooza 300x250</link>
+				<link id="" url="http://portfolio.jonnybomb.com/work/banners/always_336x280.html">Always 336x280</link>
+				<link id="" url="http://portfolio.jonnybomb.com/work/banners/PAX_Transposer_160x600.html">PAX Transposer 160x600</link>
+				<link id="" url="http://portfolio.jonnybomb.com/work/banners/allergiene_USAHome_576x194.html">LG Allergiene 576x194 (USA Home)</link>
+				<link id="" url="http://portfolio.jonnybomb.com/work/banners/disappear_300x250.html">LG Disappear 300x250</link>
+				<link id="" url="http://portfolio.jonnybomb.com/work/banners/allergiene_336x280.html">LG Allergiene 336x280</link>
+			</project>
+		</category>
+		-->
+		<category id="freelance">
+			<text id="title">Freelance</text>
+			<project id="san">
+				<text id="title">Suddenly Almost Nearly</text>
+				<text id="role">Lead Developer and Interaction Designer</text>
+				<text id="descr">This project is for an interactive book, written by my good friend, Scout McComb. I colloborated with he and my other good friend, Parker Brooks, on the concept design, and functionality. Utitlizing TopSpin for tracking, advertizing, and merchandising, i created a flexible platform for Scout to create all his own content for this project, helping him craft a new and beautiful interactive experience.</text>
+				<asset id="" type="image" uri="suddenlyalmostnearly.jpg" weight="30" preload="true"/>
+				<link id="" url="http://lungbooks.com/suddenlyalmostnearly/">View Project (Flash Player required)</link>
+			</project>
+			<project id="mikeparsons">
+				<text id="title">Mike Parsons</text>
+				<text id="role">Lead Designer and Developer</text>
+				<text id="descr">For this project, my goal was to design a clean and minimal site that would visually conform to the size of the browser window and let Mike's art work take front stage.  I also succeed in providing an easy way for Mike to configure the structure of the site and update his work by using Flickr to manage his content. This project was done in HTML/JavaScript/Ajax to allow for viewing on mobile devices as well as desktops and laptops.</text>
+				<asset id="mikep1" type="image" uri="mikep_sample.jpg" weight="57" preload="true"/>
+				<link id="" url="http://www.mikedparsons.com">View Site</link>
+			</project>
+			<project id="wayfinder">
+				<text id="title">UT Austin Wayfinder</text>
+				<text id="role">Lead Developer, Game Designer, and Interaction Designer</text>
+				<text id="descr">This is an in progress work for the University of Texas at Austin which provides guidance to undecided undergraduates. I work with the main content writer/user experience consultant to concept 4 mini games and a hub which explore different factors in choosing a major. I developed functional prototypes for all 4 mini games, and have built out everything except for the last 2 finished games.</text>
+				<asset id="" type="image" uri="wayfinder.jpg" weight="72" preload="true"/>
+				<link id="" url="http://wayfinder.jonnybomb.com/hub_flash.htm">View Project (Flash Player required)</link>
+			</project>
+			<project id="jonnybomb">
+				<text id="title">JonnyBomb</text>
+				<text id="role">Lead Designer and Developer</text>
+				<text id="descr">This project is my personal site, where I mainly showcase my music, but  where I also display personal photos and give folks a glimpse into my current likes and dislikes. I wanted to created a slick look that felt modern yet ethereal.  The site features an XML-driven streaming MP3 player with scrubbing functionality and an XML-based photo displayer which is configurable to easily allow me to display batches of photos based on my camera's default naming conventions. The site also features and XML-based links and comments section.</text>
+				<asset id="jonnybomb1" type="image" uri="jonnybomb_1.jpg" weight="86" preload="true"/>
+				<link id="" url="http://www.jonnybomb.com">View Site (Flash Player required)</link>
+			</project>
+			<project id="texasweather">
+				<text id="title">Texas Weather</text>
+				<text id="role">Lead Developer, Graphic Designer, and Interaction Designer</text>
+				<text id="descr">This is a little project I did to practice custom skinning and functionality modifications with the Flex 4 components (spark). I went through all the steps of functional specs, wireframes, prototype, design comp, and final project just for fun.</text>
+				<asset id="" type="image" uri="texasweather_1.png" weight="57" preload="true"/>
+				<link id="" url="http://bancvue.jonnybomb.com">View Project (Flash Player required)</link>
+			</project>
+			<project id="wedding">
+				<text id="title">Billie Jo and Jonathan</text>
+				<text id="role">Lead Designer and Developer</text>
+				<text id="descr">This is a site I created for my wedding. It's primary goal was be to provide our guest with information about the ceremony, accommodations, and scheduling. The design is complimentary of the save-the-date and wedding invitations, which were designed by my fiancée and I.</text>
+				<asset id="wedding1" type="image" uri="billiejoandjonathan_sample.jpg" weight="45" preload="true"/>
+				<link id="" url="http://portfolio.jonnybomb.com/work/billiejoandjonathan">View Site (Flash Player required)</link>
+			</project>
+			<project id="rapidric">
+				<text id="title">DJ Rapid Ric</text>
+				<text id="role">Lead Designer and Developer</text>
+				<text id="descr">This was a project I did for DJ Rapid Ric, the mix tape mechanic, a local DJ and creator of Southern Rap mix tapes.  Ric's mix tape sales were just beginning to boom and he wanted to get some web visibility, so he hired me to develop a site that complimented his current print materials and would enable him to dynamically update an online calendar of his upcoming shows and appearances.</text>
+				<asset id="rapidric1" type="image" uri="rapidric_samples.jpg" weight="66" preload="true"/>
+				<link id="" url="http://portfolio.jonnybomb.com/work/rapidric">View Site (Flash Player required)</link>
+			</project>
+			<project id="fcfado">
+				<text id="title">FCFado (incomplete)</text>
+				<text id="role">Lead Designer and Developer</text>
+				<text id="descr">This is a project i had started for a local over-30 Division A men's soccer team. It was an entirely XML driven site that would allow the club manager to keep team members informed of match reports and division standing, as well as giving him the ability to upload photos and videos of the games. There would also be section that deals with the history of the club. The look and feel of the site is consistent with the Fado emblem and uses soccer jersey textures to create a subtle and familiar feel.</text>
+				<asset id="fcfado1" type="image" uri="fcfado_sample.jpg" weight="86" preload="true"/>
+				<link id="" url="http://www.fcfado.com/inprogress">View Project (Flash Player required)</link>
+			</project>
+		</category>
+		<category id="advertising">
+			<text id="title">Advertising</text>
+			<!--
+			<project id="swagball">
+				<text id="title">Dell Swag Ball</text>
+				<text id="role">Lead Developer and Co-Creator</text>
+				<text id="descr"><![CDATA[Swag Ball is the first game created for the Dell Lounge Swag Arcade, an old style arcade where user can play casual games and earn tickets to be entered into the daily raffle for great prizes (like an XBox 360, Dell Net-books, etc.). The Arcade came complete with prize counter and log-in, but alas, Dell had over estimated their funding levels, and Swag Ball has since been relegated to a mere facebook app with no prizes.<br><br>I came up with the original idea to do a Skee Ball style game, and worked with the creative team at Springbox to help flesh out the Arcade metaphor.]]></text>
+				<asset id="" type="image" uri="dell_swagball.jpg" weight="64" preload="true"/>
+				<link id="" url="http://portfolio.jonnybomb.com/work/dell/swagarcade/">View Project</link>
+			</project>
+			<project id="interactiverfp">
+				<text id="title">Springbox Interactive RFP</text>
+				<text id="role">Lead Developer</text>
+				<text id="descr"><![CDATA[This is a project we created so that Springbox could have an interactive piece to send out to potential clients to introduce them to our team, or philosophy, and some of our previous work.<br><br>I concepted and developed the intro and the shell and worked on most of the content sections. This was my first foray into native Flash 3D, and i was particularly please with my "blast of cards in the wind" intro.]]></text>
+				<asset id="" type="image" uri="sb_interactiverfp.jpg" weight="40" preload="true"/>
+				<link id="" url="http://portfolio.jonnybomb.com/work/springbox/interactiverfp/">View Project</link>
+			</project>
+			-->
+			<project id="scion">
+				<text id="title">Springbox Scion Demo</text>
+				<text id="role">Lead Developer</text>
+				<text id="descr">The two demos were created for a scion pitch to design their vehicle configurator. Demo 1 was more or less a reskinning of the existing functionality (with some new bells and whistles) while Demo 2 took a more figurative approach to the building of your custom scion vehicle.</text>
+				<asset id="" type="image" uri="sb_scion1.jpg" weight="40" preload="true"/>
+				<link id="" url="http://portfolio.jonnybomb.com/work/springbox/scion1">View Demo 1 (Flash Player required)</link>
+				<link id="" url="http://portfolio.jonnybomb.com/work/springbox/scion2">View Demo 2 (Flash Player required)</link>
+			</project>
+			<project id="screensaver">
+				<text id="title">Springbox Sixth Anniversary Screensaver</text>
+				<text id="role">Lead Developer</text>
+				<text id="descr">For Springbox's sixth anniversary, I created a screensaver that pulls images from Flickr and transitions them them in a flipping, 3D manner. The final screensaver had options to let the user control the amount of image overlap, base piece size, flipping speed, and even allows users to customize the feed to their own Flickr account.</text>
+				<asset id="" type="image" uri="sb_screensaver.jpg" weight="40" preload="true"/>
+				<link id="" url="http://portfolio.jonnybomb.com/work/springbox/screensaver">View Project (Flash Player required)</link>
+			</project>
+			<project id="superview">
+				<text id="title">Springbox Superview Prototype</text>
+				<text id="role">Lead Developer</text>
+				<text id="descr">This was a prototype created to be a reusable, waypoint-driven timeline navigator to showcase rich 3D photograhy of consumer goods in a lightweight, intuitive manner with fluid movement and transitions. This prototype showcases dell mini computers and is all but complete, except for one section.</text>
+				<asset id="" type="image" uri="sb_superview.jpg" weight="40" preload="true"/>
+				<link id="" url="http://portfolio.jonnybomb.com/work/springbox/superview">View Prototype (Flash Player required)</link>
+			</project>
+			<project id="imageviewer">
+				<text id="title">LiveStrong Image Viewer</text>
+				<text id="role">Lead Developer</text>
+				<text id="descr"><![CDATA[This project is for the Lance Armstrong Foundation and was created to give them an easy way to showcase their different Flickr photo sets throughout the Livestrong.org website.<br><br>This is one of several Flickr projects i have worked on using the Abode AS3FlickrLib. Phase I just included the large images and a next/back navigation, but i developed a 3D prototype integrating a thumbnail view as well.]]></text>
+				<asset id="" type="image" uri="laf_imageviewer.jpg" weight="48" preload="true"/>
+				<link id="" url="http://portfolio.jonnybomb.com/work/laf/imageviewer/">View Project (Flash Player required)</link>
+				<!-- <link id="" url="http://portfolio.jonnybomb.com/work/laf/imageviewerprototype/">View Prototype</link> -->
+			</project>
+			<project id="aor">
+				<text id="title">PayPal Agency of Record Demo</text>
+				<text id="role">Lead Developer</text>
+				<text id="descr">This was a sample project created to woo PayPal into considering Springbox for their agency of record. It was a quick sketch of a possible new way to design the main PayPal website. The highlight, for me, on this project was a new application of my smoke/steam particle system</text>
+				<asset id="" type="image" uri="paypal_aor.jpg" weight="40" preload="true"/>
+				<link id="" url="http://portfolio.jonnybomb.com/work/paypal/agencyofrecord">View Project (Flash Player required)</link>
+			</project>
+			<!--
+			<project id="nascar">
+				<text id="title">Nascar Sweepstakes</text>
+				<text id="role">Lead Developer</text>
+				<text id="descr">This site was a redesign of the previous years sweepstakes website, though this version's main focus was a drag and drop mini game highlighting all of nascars partners in a much more engaging and interactive manner. This site won the 2009 Business-to-Consumer Automotive Communications Award.</text>
+				<asset id="" type="image" uri="nascar.jpg" weight="56" preload="true"/>
+				<link id="" url="http://portfolio.jonnybomb.com/work/nascar">View Project</link>
+			</project>
+			-->
+			<project id="transposer">
+				<text id="title">Dell X-Games Transposer</text>
+				<text id="role">Lead Developer</text>
+				<text id="descr">Hot on the heels of JibJab, Dell Lounge wanted to create a flash app where user could upload, crop, and place images of themselves into the current action (whatever that may be). In this case, it was the X-Games. Final images were then saved to the user's Dell Lounge gallery where they could share their composited images with others.</text>
+				<asset id="" type="image" uri="dell_transposer.jpg" weight="36" preload="true"/>
+				<link id="" url="http://portfolio.jonnybomb.com/work/dell/transposer">View Project (Flash Player required)</link>
+			</project>
+			<project id="safetytraining">
+				<text id="title">PayPal Safety Traing</text>
+				<text id="role">Lead Developer</text>
+				<text id="descr">This site was created for PayPal in order to help train their customers about online safety and security by providing an immersive educational environment while outlining PayPal’s latest online safety products. This site won an Adobe Site of the Day award on December 5, 2008.</text>
+				<asset id="" type="image" uri="paypal_safety.jpg" weight="56" preload="true"/>
+				<link id="" url="http://portfolio.jonnybomb.com/work/paypal/safetytraining">View Project (Flash Player required)</link>
+			</project>
+			<project id="homepagerotator">
+				<text id="title">LiveStrong Home Page Rotator</text>
+				<text id="role">Lead Developer</text>
+				<text id="descr">This project is for the home page flash rotator for the livestrong.org main landing page. The goal was to create a homepage rotator that had some movement and pizzaz but would fit in with the new style guide. We developed a modular template system that provides livestrong a flexible way for creating content using Kentico.</text>
+				<asset id="" type="image" uri="laf_homerotator.jpg" weight="32" preload="true"/>
+				<link id="" url="http://portfolio.jonnybomb.com/work/laf/homepagerotator/">View Project (Flash Player required)</link>
+			</project>
+			<!--
+			<project id="magicaldash">
+				<text id="title">Disney/Verizon Magical Dash</text>
+				<text id="role">Lead Developer</text>
+				<text id="descr">Verizon and Disney needed a mini site to showcase the new Verizon DisneyLand mobile app. To do so, we created a time-based game that abstracts the main features from the mobile app into a jump through the park adventure where the user has to visit all the spots on their itinerary before the parl closes. The main challenge in this project was coming up with a navigation mechanism that allows users to easily move through the vast park in a fun and engaging manner.</text>
+				<asset id="" type="image" uri="disney_magicaldash.jpg" weight="68" preload="true"/>
+				<link id="" url="http://portfolio.jonnybomb.com/work/disney">View Project</link>
+			</project>
+			-->
+			<project id="experian">
+				<text id="title">Experian Product Demo</text>
+				<text id="role">Lead Developer</text>
+				<text id="descr">Experian needed a 3-5 minute informative piece to reach new users and let them know more about the freecreditreport.com website and its vast features, so we built a custom .swf player and created 4 minutes of flash-based motion graphics to help them deliver their message.</text>
+				<asset id="" type="image" uri="experian.jpg" weight="40" preload="true"/>
+				<link id="" url="http://portfolio.jonnybomb.com/work/experian">View Project (Flash Player required)</link>
+			</project>
+			<project id="steamlaundry">
+				<text id="title">LG Steam Laundry Microsite</text>
+				<text id="role">Lead Developer</text>
+				<text id="descr">LG needed a microsite to showcase their new steamwashers and steamdryers, so we made slick, modern site to meet their goala. For this site, i got to develop a steam particle system.</text>
+				<asset id="" type="image" uri="lg_steamlaundry.jpg" weight="40" preload="true"/>
+				<link id="" url="http://portfolio.jonnybomb.com/work/lg/steamlaundrymicrosite">View Project (Flash Player required)</link>
+			</project>
+			<!--
+			<project id="steameffect">
+				<text id="title">LG Steam Particle System Prototype</text>
+				<text id="role">Lead Developer</text>
+				<text id="descr">This was the prototype for the steam particle system developed for the LG microsite. In this prototype, I linked sliders to all the different control parameters for the steam particle system so that i could easily tweak the settings to create the most realistic steam possible.</text>
+				<asset id="" type="image" uri="lg_steamparticles.jpg" weight="24" preload="true"/>
+				<link id="" url="http://portfolio.jonnybomb.com/work/lg/steameffect">View Prototype</link>
+			</project>
+			-->
+			<project id="callaway">
+				<text id="title">Callaway Netfits</text>
+				<text id="role">Lead Developer</text>
+				<text id="descr">This site was developed to create a custom driver configurator for Callaway's new line of golf clubs. Users are taken through 5 stages of configuration, where they provide all the details of their drives, often using 3D modeled trajectories to fine tune their golfing needs. This site won a 2008 Austin Addy (Silver) for Interactive Media.</text>
+				<asset id="" type="image" uri="callaway_1.jpg" weight="56" preload="true"/>
+				<link id="" url="http://portfolio.jonnybomb.com/work/callaway">View Project (Flash Player required)</link>
+			</project>
+			<project id="hometabmap">
+				<text id="title">Dell Hometab Map</text>
+				<text id="role">Lead Developer</text>
+				<text id="descr">Dell need a new faecbook hometab map to provide user a quick and easy overview of all the countries which have a Dell presence. We utilized a paired-down google-like map system that allows user to freely navigate all over the globe.</text>
+				<asset id="" type="image" uri="dell_hometabmap.jpg" weight="40" preload="true"/>
+				<link id="" url="http://portfolio.jonnybomb.com/work/dell/hometabmap">View Project (Flash Player required)</link>
+			</project>
+		</category>
+		
+		<category id="elearning">
+			<text id="title">E-learning</text>
+			<project id="k12">
+				<text id="title">K-12 Science Demo</text>
+				<text id="role">Lead Designer and Developer</text>
+				<text id="descr">This was an interactive demo targeted at providing computer based equivalents to hands-on classroom experiments for junior high children in Natural Science classes. The activity aimed to help students determine an element's group in the periodic table by allowing them to immerse it in hydrochloric acid, test it's electrical conductivity, and view the electrons in it's outer layer. I collaborated in the concepting, and did all the design and coding for the project.</text>
+				<asset id="hrw1" type="image" uri="hrw_1.jpg" weight="61" preload="true"/>
+				<asset id="hrw2" type="image" uri="hrw_2.jpg" weight="57" preload="true"/>
+				<asset id="hrw3" type="image" uri="hrw_3.jpg" weight="61" preload="true"/>
+			</project>
+			<project id="pnc">
+				<text id="title">Product Trivia Game</text>
+				<text id="role">Lead Designer and Developer</text>
+				<text id="descr">This was a time based trivia game used to train newly transitioning tellers in a recent bank acquisition. The game randomly draws from a bank of questions, provides contextual feedback, and reports completion and scores to the client's LMS. I created an iconographic system to help user identify the 5 categories of trivia, as well as a customer service category that playfully represented a real-life customer scenario. I designed the UI, the majority of the graphic work, and managed another designer who helped create assets. I did all the coding for this as well, using an Object Oriented Design implemented in ActionScript 2.0.</text>
+				<asset id="pnc1" type="image" uri="pnc_1.jpg" weight="57" preload="true"/>
+				<asset id="pnc2" type="image" uri="pnc_2.jpg" weight="49" preload="true"/>
+				<asset id="pnc3" type="image" uri="pnc_3.jpg" weight="66" preload="true"/>
+			</project>
+			<project id="alms">
+				<text id="title">ALMS</text>
+				<text id="role">Lead Designer and Developer</text>
+				<text id="descr">This was a five hour, five module course designed to help train Arkansas students how to use rulers and protractors, factor and find greatest common factors and least common multiples, and add and subtract fractions. I collaborated in the concepting of the interactive componenets, and did all the design and development. I also did the UI design and created the majority of the didactic media. After the completion of these five courses, I was invited to lead a two day Flash training seminar for Arkansas high school students.</text>
+				<asset id="alms1" type="image" uri="alms_1.jpg" weight="61" preload="true"/>
+				<asset id="alms2" type="image" uri="alms_2.jpg" weight="45" preload="true"/>
+				<asset id="alms3" type="image" uri="alms_3.jpg" weight="53" preload="true"/>
+			</project>
+			<project id="pearson">
+				<text id="title">Pearson</text>
+				<text id="role">Lead Designer and Developer</text>
+				<text id="descr">For this project, I designed and developed a series of Flash templates and custom component inspectors used to create TEA-approved interactive online Standardized Test Questions which are deployed on Java based client application. Several of the templates, such as the drag and drop template, did not required the creation of graphics, while others, like the microscope and titration templates required dynamic display graphics and user controls.  These templates were developed using an Object Oriented Design in ActionScript 2.0 and were created in a modular manner such that multiple templates could be combined for one test item, giving the author control of the weight and method of scoring.</text>
+				<asset id="pearson1" type="image" uri="pearson_1.jpg" weight="30" preload="true"/>
+				<asset id="pearson2" type="image" uri="pearson_2.jpg" weight="70" preload="true"/>
+				<asset id="pearson3" type="image" uri="pearson_4.jpg" weight="74" preload="true"/>
+			</project>
+			<project id="flashvue">
+				<text id="title">Flashvue</text>
+				<text id="role">Lead Designer and Developer</text>
+				<text id="descr">This was an hour long course designed to both provide job interview training and create video interview profiles for people actively seeking employment. This course was deployed on touch screen kiosks equiped with web cams and actively interfaced with a proprietary video-capture application developed by the client. I designed the UI, the didactic media, and a series of self assessment interactivities, as well as implementing a video player and support for multiple languages (including Simplified Chinese).</text>
+				<asset id="flashvue1" type="image" uri="flashvue_1.jpg" weight="74" preload="true"/>
+				<asset id="flashvue2" type="image" uri="flashvue_2.jpg" weight="78" preload="true"/>
+				<asset id="flashvue3" type="image" uri="flashvue_3.jpg" weight="61" preload="true"/>
+			</project>
+			<project id="sap">
+				<text id="title">SAP Virtual Team Management</text>
+				<text id="role">Lead Designer and Developer</text>
+				<text id="descr">This was a five-hour course on successful virtual project management created for SAP. I created the design templates for the didactic content and oversaw a team of 3-4 designer and one illustrator build out that content, as well as build some out myself. I also designed and developed the an accordian-style multiple choice interactive question template that allowed us to display a large amount of information in context using a small amount of space.</text>
+				<asset id="" type="image" uri="sap_1.jpg" weight="72" preload="true"/>
+				<asset id="" type="image" uri="sap_2.jpg" weight="68" preload="true"/>
+				<asset id="" type="image" uri="sap_3.jpg" weight="72" preload="true"/>
+			</project>
+			<project id="vnsny">
+				<text id="title">Visiting Nurse Services of New York</text>
+				<text id="role">Lead Designer and Developer</text>
+				<text id="descr">This project included two hours of visiting nurse services training that was deployed on touch screen tablet devices. I managed 2 other designers who worked on this course as well as developed a series of interactive question templates.</text>
+				<asset id="" type="image" uri="vnsny_1.jpg" weight="72" preload="true"/>
+				<asset id="" type="image" uri="vnsny_2.jpg" weight="68" preload="true"/>
+				<asset id="" type="image" uri="vnsny_3.jpg" weight="72" preload="true"/>
+			</project>
+		</category>
+	</work>
+	
+</content>

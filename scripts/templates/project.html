@@ -1,0 +1,37 @@
+<script type="text/template" class="template">
+	<div class="details col-sm-6">
+		<div class="title">
+			<%= model.title %>
+		</div>
+		<div class="role">
+			<%= model.role %>
+		</div>
+		<div class="descr">
+			<%= model.descr %>
+		</div>
+		<% if (model.assets.length > 1) { %>
+		<div class="image-toggle">
+			<span class="images-title">Images:</span>
+			<% for (var i=0; i<model.assets.length; i++) { var asset = model.assets[i]; %>
+				<button class="btn link-asset-btn asset-btn" data-asset="<%= asset %>">
+					<span class="image-count"><%= i+1 %></span>
+                </button>
+			<% } %>
+		</div>
+		<% } %>
+		<% if (model.links.length > 0) { %>
+		<div class="links">
+			<% for (var i=0; i<model.links.length; i++) { var link = model.links[i]; %>
+				<a href="<%= link.url %>" target="_blank" class="link">
+					<button class="btn link-asset-btn">
+	                    <i class="fa fa-external-link"></i>
+	                </button><span class="link-text"><%= link.text %></span>
+	             </a>
+			<% } %>
+		</div>
+		<% } %>
+	</div>
+	<div class="images col-sm-6">
+		<img class='img' src="<%= model.assets[model.imgIdx] %>" />
+	</div>
+</script>

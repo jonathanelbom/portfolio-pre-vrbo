@@ -1,0 +1,24 @@
+<script type="text/template" class="template">
+	<div class="header-top">
+		<div id="logo" class="">
+			<span id="first-name">JONATHAN</span>
+			<span id="last-name">ELBOM</span>
+		</div>
+		<div id="links" class="pull-right">
+			<a href="./JonathanElbom_Resume.pdf" target="_blank">
+				<i class="fa fa-file-text"></i> RESUME
+			</a>
+			<a href="mailto:portfolio@jonnybomb.com" target="_blank">
+				<i class="fa fa-envelope"></i> EMAIL
+			</a>
+		</div>
+	</div>
+	<div class="main-nav pull-right">
+		<ul class="nav nav-tabs">
+		  <% for (var i=0; i<cc.length; i++) { var c = cc[i]; %>
+		  	<li class="<%= (i === 0 ? 'active' : '') %>"><a href="#" data-category="<%= c.get('id') %>"> <%= c.get('title') %></a></li>
+		  <% } %>
+		</ul>
+	</div>
+</script>
+
