@@ -12,7 +12,7 @@
 			<project id="abbi">
 				<text id="title">ABBI</text>
 				<text id="role">Lead UI/UX, Senior Front-End Developer</text>
-				<text id="descr"><![CDATA[This is a content authoring, banking, and form building tool used to author QTI compliant assessment content. The first pass of the tool is focused on creating authoring modules and the basic functionality for creating, editing, and reviewing assessment content authored in or imported into ABBI.<br/><br/>This is a RESTful single page web application that, on the client side, uses Backbone.js, Underscore.js, Require.js, SASS, Bootstap, JQuery/UI/jqGrid, Font Awesome, and the TinyMCE rich text editor. For build automation and management, we use Grunt and Bower.]]></text>
+				<text id="descr"><![CDATA[This is a content authoring, banking, and form building tool used to author QTI compliant assessment content. The first pass of the tool is focused on creating authoring modules and the basic functionality for creating, editing, and reviewing assessment content authored in or imported into ABBI.<br/><br/>This is a RESTful single page web application that, on the client side, uses Backbone.js, Underscore.js, Require.js, SASS, Bootstap, JQuery/UI/jqGrid, Font Awesome, and the TinyMCE rich text editor. For build automation and management, we use Grunt and Bower.<br/><br/>I did all the visual design for this projects, most of the interaction design, and was a principal contributor to the infomation architecture and user-flow. I was also a princpal client-side developer and lead the authoring module development.]]></text>
 				<asset id="abbi1" type="image" uri="abbi_1.jpg" weight="33" preload="true"/>
 				<asset id="abbi2" type="image" uri="abbi_2.jpg" weight="33" preload="true"/>
 				<asset id="abbi3" type="image" uri="abbi_3.jpg" weight="33" preload="true"/>
@@ -44,35 +44,35 @@
 			</project>
 			<project id="interactiverfp">
 				<text id="title">Springbox Interactive RFP</text>
-				<text id="role">Lead Developer</text>
+				<text id="role">Lead Developer, Motion Designer</text>
 				<text id="descr"><![CDATA[This is a project we created so that Springbox could have an interactive piece to send out to potential clients to introduce them to our team, or philosophy, and some of our previous work.<br><br>I concepted and developed the intro and the shell and worked on most of the content sections. This was my first foray into native Flash 3D, and i was particularly please with my "blast of cards in the wind" intro.]]></text>
 				<asset id="" type="image" uri="sb_interactiverfp.jpg" weight="40" preload="true"/>
 				<link id="" url="http://portfolio.jonnybomb.com/work/springbox/interactiverfp/">View Project (Flash Player required)</link>
 			</project>
 			<project id="swagball">
 				<text id="title">Dell Swag Ball</text>
-				<text id="role">Lead Developer and Co-Creator</text>
-				<text id="descr"><![CDATA[Swag Ball is the first game created for the Dell Lounge Swag Arcade, an old style arcade where user can play casual games and earn tickets to be entered into the daily raffle for great prizes (like an XBox 360, Dell Net-books, etc.). The Arcade came complete with prize counter and log-in, but alas, Dell had over estimated their funding levels, and Swag Ball has since been relegated to a mere facebook app with no prizes.<br><br>I came up with the original idea to do a Skee Ball style game, and worked with the creative team at Springbox to help flesh out the Arcade metaphor.]]></text>
+				<text id="role">Lead Developer, Game Designer, and Interaction Designer</text>
+				<text id="descr"><![CDATA[Swag Ball is the first game created for the Dell Lounge Swag Arcade, an old style arcade where user can play casual games and earn tickets to be entered into the daily raffle for great prizes (like an XBox 360, Dell Net-books, etc.). The Arcade came complete with prize counter and log-in, but alas, Dell had over estimated their funding levels, and Swag Ball has since been relegated to a mere facebook app with no prizes.<br><br>I came up with the original idea to do a Skee Ball style game, created the interaction design for the game, and worked with the creative team at Springbox to help flesh out the Arcade metaphor.]]></text>
 				<asset id="" type="image" uri="dell_swagball.jpg" weight="64" preload="true"/>
 				<link id="" url="http://portfolio.jonnybomb.com/work/dell/swagarcade/">View Project (Flash Player required)</link>
 			</project>
 			<project id="magicaldash">
 				<text id="title">Disney/Verizon Magical Dash</text>
-				<text id="role">Lead Developer</text>
-				<text id="descr">Verizon and Disney needed a mini site to showcase the new Verizon DisneyLand mobile app. To do so, we created a time-based game that abstracts the main features from the mobile app into a jump through the park adventure where the user has to visit all the spots on their itinerary before the parl closes. The main challenge in this project was coming up with a navigation mechanism that allows users to easily move through the vast park in a fun and engaging manner.</text>
+				<text id="role">Lead Developer, Game Designer, and Interaction Designer</text>
+				<text id="descr">Verizon and Disney needed a mini site to showcase the new Verizon DisneyLand mobile app. To do so, we created a time-based game that abstracts the main features from the mobile app into a jump through the park adventure where the user has to visit all the spots on their itinerary before the parl closes. The main challenge in this project was coming up with a navigation mechanism that allows users to easily move through the vast park in a fun and engaging manner. I created and implemented the game play mechanics for this project.</text>
 				<asset id="" type="image" uri="disney_magicaldash.jpg" weight="68" preload="true"/>
 				<link id="" url="http://portfolio.jonnybomb.com/work/disney">View Project (Flash Player required)</link>
 			</project>
 			<project id="steameffect">
 				<text id="title">LG Steam Particle System Prototype</text>
-				<text id="role">Lead Developer</text>
+				<text id="role">Lead Developer and Motion Designer</text>
 				<text id="descr">This was the prototype for the steam particle system developed for the LG microsite. In this prototype, I linked sliders to all the different control parameters for the steam particle system so that i could easily tweak the settings to create the most realistic steam possible.</text>
 				<asset id="" type="image" uri="lg_steamparticles.jpg" weight="24" preload="true"/>
 				<link id="" url="http://portfolio.jonnybomb.com/work/lg/steameffect">View Prototype (Flash Player required)</link>
 			</project>
 			<project id="nascar">
 				<text id="title">Nascar Sweepstakes</text>
-				<text id="role">Lead Developer</text>
+				<text id="role">Lead Developer, Game Designer, and Interaction Designer</text>
 				<text id="descr">This site was a redesign of the previous years sweepstakes website, though this version's main focus was a drag and drop mini game highlighting all of nascars partners in a much more engaging and interactive manner. This site won the 2009 Business-to-Consumer Automotive Communications Award.</text>
 				<asset id="" type="image" uri="nascar.jpg" weight="56" preload="true"/>
 				<link id="" url="http://portfolio.jonnybomb.com/work/nascar">View Project (Flash Player required)</link>

@@ -13,28 +13,13 @@ define([
     var AppRouter = Backbone.Router.extend({
 
         appModel: null,
-        buildModel: null,
-        buildCollection: null,
-        buildView: null,
-
         routes: {
-            'item': 'newItem',
-            'item/:id': 'loadItem',
-            'item/': 'newItem',
-            'passage/:id': 'loadPassage',
-            'passage/': 'loadPassage',
-            'passage': 'loadPassage',
-            'metadata': 'loadMetadata',
-            'list':'listAssets',
-            //'*actions': 'landing'
-            '*actions': 'defaultItem',
-            'postLogin': 'landing'
+            '*actions': 'start'
         },
 
-        defaultItem: function () {
+        start: function () {
             this.appModel = new AppModel();
             this.appModel.loadData();
-            //this.newItem('choice.json', '/data/');
         }
     });
 
