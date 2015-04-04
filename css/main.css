@@ -171,6 +171,7 @@ ul.nav-tabs > li > a {
 	font-size: 1.2em;
  	letter-spacing: -0.02em;
  	font-weight: bold;
+ 	margin-right: 10px;
 }
 .project .details .link-text {
 	margin-left: 7px;
@@ -191,7 +192,8 @@ ul.nav-tabs > li > a {
 }
 
 .project .details button.btn.link-asset-btn.asset-btn {
-	margin-left: 10px;
+	margin-right: 7px;
+	margin-bottom: 7px;
 }
 
 .project .details button.btn.link-asset-btn.asset-btn.selected {

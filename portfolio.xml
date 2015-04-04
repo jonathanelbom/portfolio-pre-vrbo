@@ -14,8 +14,22 @@
 				<text id="role">Lead UI/UX, Senior Front-End Developer</text>
 				<text id="descr"><![CDATA[This is a content authoring, banking, and form building tool used to author QTI compliant assessment content. The first pass of the tool is focused on creating authoring modules and the basic functionality for creating, editing, and reviewing assessment content authored in or imported into ABBI.<br/><br/>This is a RESTful single page web application that, on the client side, uses Backbone.js, Underscore.js, Require.js, SASS, Bootstap, JQuery/UI/jqGrid, Font Awesome, and the TinyMCE rich text editor. For build automation and management, we use Grunt and Bower.<br/><br/>I did all the visual design for this projects, most of the interaction design, and was a principal contributor to the infomation architecture and user-flow. I was also a princpal client-side developer and lead the authoring module development.]]></text>
 				<asset id="abbi1" type="image" uri="abbi_1.jpg" weight="33" preload="true"/>
-				<asset id="abbi2" type="image" uri="abbi_2.jpg" weight="33" preload="true"/>
+				<asset id="abbi2" type="image" uri="abbi_edit_list.jpg" weight="33" preload="true"/>
+				<asset id="abbi7" type="image" uri="abbi_modal_lockForEdit.jpg" weight="33" preload="true"/>
+				<asset id="abbi4" type="image" uri="abbi_create_item_gapMatch.jpg" weight="33" preload="true"/>
+				<asset id="abbi5" type="image" uri="abbi_create_item_gapMatchAndText.jpg" weight="33" preload="true"/>
+				<asset id="abbi6" type="image" uri="abbi_create_item_hotspot.jpg" weight="33" preload="true"/>
 				<asset id="abbi3" type="image" uri="abbi_3.jpg" weight="33" preload="true"/>
+				<asset id="abbi8" type="image" uri="abbi_attachments.jpg" weight="33" preload="true"/>
+				<asset id="abbi9" type="image" uri="abbi_versions.jpg" weight="33" preload="true"/>
+				<asset id="abbi10" type="image" uri="abbi_create_item_dragToReorder.jpg
+" weight="33" preload="true"/>
+				<asset id="abbi11" type="image" uri="abbi_create_item_functionGraph_1.jpg" weight="33" preload="true"/>
+				<asset id="abbi12" type="image" uri="abbi_create_item_functionGraph_2.jpg" weight="33" preload="true"/>
+				<asset id="abbi14" type="image" uri="abbi_create_item_functionGraph_3.jpg" weight="33" preload="true"/>
+				<asset id="abbi15" type="image" uri="abbi_create_item_functionGraph_narrow.jpg" weight="33" preload="true"/>
+				<asset id="abbi16" type="image" uri="abbi_create_item_moduleCSS.jpg" weight="33" preload="true"/>
+				<asset id="abbi17" type="image" uri="abbi_edit_item_previewMode_itemLayout.jpg" weight="33" preload="true"/>
 				<link id="" url="http://abbi.pearson.com">View Project</link>
 			</project>
 			<project id="cmap">
