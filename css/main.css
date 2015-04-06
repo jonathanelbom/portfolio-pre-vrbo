@@ -178,6 +178,7 @@ ul.nav-tabs > li > a {
 	letter-spacing: -0.02em;
 	color: #333;
 	font-weight: bold;
+	line-height: 30px;
 }
 
 .project .details button.btn.link-asset-btn {
