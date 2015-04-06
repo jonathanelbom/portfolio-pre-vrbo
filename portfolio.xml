@@ -30,19 +30,19 @@
 				<asset id="abbi15" type="image" uri="abbi_create_item_functionGraph_narrow.jpg" weight="33" preload="true"/>
 				<asset id="abbi16" type="image" uri="abbi_create_item_moduleCSS.jpg" weight="33" preload="true"/>
 				<asset id="abbi17" type="image" uri="abbi_edit_item_previewMode_itemLayout.jpg" weight="33" preload="true"/>
-				<link id="" url="http://abbi.pearson.com">View Project</link>
+				<link id="" url="http://abbi.pearson.com">View Project (password protected - please inquire for a tour)</link>
 			</project>
 			<project id="cmap">
 				<text id="title">MentalModeler</text>
 				<text id="role">Lead Developer (JavaScript and ActionScript), Visual Designer, and Interaction Designer</text>
-				<text id="descr"><![CDATA[This is a prototyped developed for a science professor at the University of Honolulu, who is developing software for creating qualitative models used for a variety of purposes. He needed a concept mapping tool that was limited in scope to his needs and provided a very intuitive user experience. Once funding goes through, this will be developed into an AIR and mobile app used to create, save, and modify these concept maps that are then used to run time-based, fuzzy logic scenarios whose results are then analyzed.<br/><br/>After gaining traction with the concept mapping tool, I was then employed to build a web-based version of their .net desktop app, which integrated with the flash concept mapping tool. Eventually that will be ported to javascript, too.<br/><br/><p>I also made a small one-page scroller promotional site for the mental modeler, where new users could register for free access to the tool, as well as a similarly styled one-page scroller site for the Principal Investigator's UMass Boston Human-Environment Interactions Lab. The lab site is optimized for mobile.]]></text>
+				<text id="descr"><![CDATA[This project that began as a prototype developed for a science professor at UMass Boston, who is developing software for creating fuzzy logic cognitive maps. He needed a concept mapping tool that was limited in scope to his needs and provided a very intuitive user experience. The prototype i developed was well received and helped him gain grant funding for the next 3 years, and i continued to refined the prototype and add more features.<br/><br/>I was then employed to build a web-based version of their .net desktop app, which integrated with the actionscript concept mapping tool (i'm working on a javascript port of that piece now utilizing the jsPlumb library). I did all the design and development for this (HTML/CSS/Javascript), making a single page webapp with Backbone.js that utilizes the Javascript FileReader API for reading files and Actionscript and the flash plugin for writing files to the local file system.<br/><br/><p>I also made a small one-page scroller promotional site for the mental modeler, where new users could register for free access to the tool, as well as a similarly styled one-page scroller site for the Principal Investigator's UMass Boston Human-Environment Interactions Lab. The lab site is responsively designed.]]></text>
 				<asset id="mmw1" type="image" uri="mentalmodeler_web.jpg" weight="33" preload="true"/>
 				<asset id="mm1" type="image" uri="mm_scenario_1.jpg" weight="33" preload="true"/>
 				<asset id="mm2" type="image" uri="mm_scenario_2.jpg" weight="33" preload="true"/>
 				<asset id="mm3" type="image" uri="mm_scenario_3.jpg" weight="33" preload="true"/>
 				<asset id="mm4" type="image" uri="mm_scenario_4.jpg" weight="33" preload="true"/>
 				<asset id="mm1" type="image" uri="mentalmodeler.jpg" weight="33" preload="true"/>
-				<link id="" url="http://mentalmodeler.com/scenario">Concept Mapping Tool</link>
+				<link id="" url="http://mentalmodeler.com/scenario">Concept Mapping Tool (password protected - please inquire for a tour)</link>
 				<link id="" url="http://jonnybomb.com/umasslab">Human-Environment Interactions Lab</link>
 				<link id="" url="http://mentalmodeler.com">Promotional Site</link>
 			</project>
