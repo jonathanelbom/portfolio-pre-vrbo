@@ -5,7 +5,7 @@
 		<property id="mailto" value="mailto:jb@jonnybomb.com" />
 		<property id="image_path" value="images/" />
 	</globals>
-	
+
 	<work>
 		<category id="featured">
 			<text id="title">Featured</text>
@@ -35,7 +35,7 @@
 			<project id="cmap">
 				<text id="title">MentalModeler</text>
 				<text id="role">Lead Developer (JavaScript and ActionScript), Visual Designer, and Interaction Designer</text>
-				<text id="descr"><![CDATA[This project that began as a prototype developed for a science professor at UMass Boston, who is developing software for creating fuzzy logic cognitive maps. He needed a concept mapping tool that was limited in scope to his needs and provided a very intuitive user experience. The prototype i developed was well received and helped him gain grant funding for the next 3 years, and i continued to refined the prototype and add more features.<br/><br/>I was then employed to build a web-based version of their .net desktop app, which integrated with the actionscript concept mapping tool (i'm working on a javascript port of that piece now utilizing the jsPlumb library). I did all the design and development for this (HTML/CSS/Javascript), making a single page webapp with Backbone.js that utilizes the Javascript FileReader API for reading files and Actionscript and the flash plugin for writing files to the local file system.<br/><br/><p>I also made a small one-page scroller promotional site for the mental modeler, where new users could register for free access to the tool, as well as a similarly styled one-page scroller site for the Principal Investigator's UMass Boston Human-Environment Interactions Lab. The lab site is responsively designed.]]></text>
+				<text id="descr"><![CDATA[This project that began as a prototype developed for a science professor at UMass Boston, who is developing software for creating fuzzy logic cognitive maps. He needed a concept mapping tool that was limited in scope to his needs and provided a very intuitive user experience. The prototype i developed was well received and helped him win a National Science Foundation grant, which has provide development funding for the next 3 years, and i continued to refined the prototype and add more features.<br/><br/>I was then employed to build a web-based version of their .net desktop app, which integrated with the actionscript concept mapping tool (i'm working on a javascript port of that piece now utilizing the jsPlumb library). I did all the design and development for this (HTML/CSS/Javascript), making a single page webapp with Backbone.js that utilizes the Javascript FileReader API for reading files and Actionscript and the flash plugin for writing files to the local file system.<br/><br/><p>I also made a small one-page scroller promotional site for the mental modeler, where new users could register for free access to the tool, as well as a similarly styled one-page scroller site for the Principal Investigator's UMass Boston Human-Environment Interactions Lab. The lab site is responsively designed.]]></text>
 				<asset id="mmw1" type="image" uri="mentalmodeler_web.jpg" weight="33" preload="true"/>
 				<asset id="mm1" type="image" uri="mm_scenario_1.jpg" weight="33" preload="true"/>
 				<asset id="mm2" type="image" uri="mm_scenario_2.jpg" weight="33" preload="true"/>
@@ -45,6 +45,13 @@
 				<link id="" url="http://mentalmodeler.com/scenario">Concept Mapping Tool (password protected - please inquire for a tour)</link>
 				<link id="" url="http://jonnybomb.com/umasslab">Human-Environment Interactions Lab</link>
 				<link id="" url="http://mentalmodeler.com">Promotional Site</link>
+			</project>
+			<project id="mikeparsons">
+				<text id="title">Mike Parsons</text>
+				<text id="role">Lead Designer and Developer</text>
+				<text id="descr">For this project, my goal was to design a clean and minimal site that would visually conform to the size of the browser window and let Mike's art work take front stage.  I also succeed in providing an easy way for Mike to configure the structure of the site and update his work by using Flickr to manage his content. This project was done in HTML/CSS/JavaScript to allow for viewing on mobile devices as well as desktops and laptops.</text>
+				<asset id="mikep1" type="image" uri="mikedparsons.jpg" weight="75" preload="true"/>
+				<link id="" url="http://www.mikedparsons.com">View Site</link>
 			</project>
 			<project id="beats">
 				<text id="title">Beats Music Sentence Share</text>
@@ -70,12 +77,12 @@
 				<asset id="" type="image" uri="dell_swagball.jpg" weight="64" preload="true"/>
 				<link id="" url="http://portfolio.jonnybomb.com/work/dell/swagarcade/">View Project (Flash Player required)</link>
 			</project>
-			<project id="magicaldash">
-				<text id="title">Disney/Verizon Magical Dash</text>
+			<project id="nascar">
+				<text id="title">Nascar Sweepstakes</text>
 				<text id="role">Lead Developer, Game Designer, and Interaction Designer</text>
-				<text id="descr">Verizon and Disney needed a mini site to showcase the new Verizon DisneyLand mobile app. To do so, we created a time-based game that abstracts the main features from the mobile app into a jump through the park adventure where the user has to visit all the spots on their itinerary before the parl closes. The main challenge in this project was coming up with a navigation mechanism that allows users to easily move through the vast park in a fun and engaging manner. I created and implemented the game play mechanics for this project.</text>
-				<asset id="" type="image" uri="disney_magicaldash.jpg" weight="68" preload="true"/>
-				<link id="" url="http://portfolio.jonnybomb.com/work/disney">View Project (Flash Player required)</link>
+				<text id="descr">This site was a redesign of the previous years sweepstakes website, though this version's main focus was a drag and drop mini game highlighting all of nascars partners in a much more engaging and interactive manner. This site won the 2009 Business-to-Consumer Automotive Communications Award.</text>
+				<asset id="" type="image" uri="nascar.jpg" weight="56" preload="true"/>
+				<link id="" url="http://portfolio.jonnybomb.com/work/nascar">View Project (Flash Player required)</link>
 			</project>
 			<project id="steameffect">
 				<text id="title">LG Steam Particle System Prototype</text>
@@ -83,13 +90,6 @@
 				<text id="descr">This was the prototype for the steam particle system developed for the LG microsite. In this prototype, I linked sliders to all the different control parameters for the steam particle system so that i could easily tweak the settings to create the most realistic steam possible.</text>
 				<asset id="" type="image" uri="lg_steamparticles.jpg" weight="24" preload="true"/>
 				<link id="" url="http://portfolio.jonnybomb.com/work/lg/steameffect">View Prototype (Flash Player required)</link>
-			</project>
-			<project id="nascar">
-				<text id="title">Nascar Sweepstakes</text>
-				<text id="role">Lead Developer, Game Designer, and Interaction Designer</text>
-				<text id="descr">This site was a redesign of the previous years sweepstakes website, though this version's main focus was a drag and drop mini game highlighting all of nascars partners in a much more engaging and interactive manner. This site won the 2009 Business-to-Consumer Automotive Communications Award.</text>
-				<asset id="" type="image" uri="nascar.jpg" weight="56" preload="true"/>
-				<link id="" url="http://portfolio.jonnybomb.com/work/nascar">View Project (Flash Player required)</link>
 			</project>
 		</category>
 		<!--
@@ -120,13 +120,6 @@
 				<text id="descr">This project is for an interactive book, written by my good friend, Scout McComb. I colloborated with he and my other good friend, Parker Brooks, on the concept design, and functionality. Utitlizing TopSpin for tracking, advertizing, and merchandising, i created a flexible platform for Scout to create all his own content for this project, helping him craft a new and beautiful interactive experience.</text>
 				<asset id="" type="image" uri="suddenlyalmostnearly.jpg" weight="30" preload="true"/>
 				<link id="" url="http://lungbooks.com/suddenlyalmostnearly/">View Project (Flash Player required)</link>
-			</project>
-			<project id="mikeparsons">
-				<text id="title">Mike Parsons</text>
-				<text id="role">Lead Designer and Developer</text>
-				<text id="descr">For this project, my goal was to design a clean and minimal site that would visually conform to the size of the browser window and let Mike's art work take front stage.  I also succeed in providing an easy way for Mike to configure the structure of the site and update his work by using Flickr to manage his content. This project was done in HTML/JavaScript/Ajax to allow for viewing on mobile devices as well as desktops and laptops.</text>
-				<asset id="mikep1" type="image" uri="mikep_sample.jpg" weight="57" preload="true"/>
-				<link id="" url="http://www.mikedparsons.com">View Site</link>
 			</project>
 			<project id="wayfinder">
 				<text id="title">UT Austin Wayfinder</text>
@@ -203,6 +196,13 @@
 				<text id="descr">For Springbox's sixth anniversary, I created a screensaver that pulls images from Flickr and transitions them them in a flipping, 3D manner. The final screensaver had options to let the user control the amount of image overlap, base piece size, flipping speed, and even allows users to customize the feed to their own Flickr account.</text>
 				<asset id="" type="image" uri="sb_screensaver.jpg" weight="40" preload="true"/>
 				<link id="" url="http://portfolio.jonnybomb.com/work/springbox/screensaver">View Project (Flash Player required)</link>
+			</project>
+			<project id="magicaldash">
+				<text id="title">Disney/Verizon Magical Dash</text>
+				<text id="role">Lead Developer, Game Designer, and Interaction Designer</text>
+				<text id="descr">Verizon and Disney needed a mini site to showcase the new Verizon DisneyLand mobile app. To do so, we created a time-based game that abstracts the main features from the mobile app into a jump through the park adventure where the user has to visit all the spots on their itinerary before the parl closes. The main challenge in this project was coming up with a navigation mechanism that allows users to easily move through the vast park in a fun and engaging manner. I created and implemented the game play mechanics for this project.</text>
+				<asset id="" type="image" uri="disney_magicaldash.jpg" weight="68" preload="true"/>
+				<link id="" url="http://portfolio.jonnybomb.com/work/disney">View Project (Flash Player required)</link>
 			</project>
 			<project id="superview">
 				<text id="title">Springbox Superview Prototype</text>
@@ -303,7 +303,7 @@
 				<link id="" url="http://portfolio.jonnybomb.com/work/dell/hometabmap">View Project (Flash Player required)</link>
 			</project>
 		</category>
-		
+
 		<category id="elearning">
 			<text id="title">E-learning</text>
 			<project id="k12">
@@ -364,5 +364,5 @@
 			</project>
 		</category>
 	</work>
-	
+
 </content>
