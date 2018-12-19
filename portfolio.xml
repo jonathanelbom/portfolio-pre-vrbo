@@ -9,6 +9,35 @@
 	<work>
 		<category id="featured">
 			<text id="title">Featured</text>
+			<project id="fridaynightjamz">
+				<text id="title">Friday Night Jamz</text>
+				<text id="role">Lead Developer, Visual Designer, and Interaction Designer</text>
+				<text id="descr"><![CDATA[This is a desktop and mobile website to share my hobby friday night jams with my group of friends who participate. We began by hosting our jams on SoundCloud, but soon ran out of space, so i decided to cook up this site. Each 'jam' has a custom name and image, and each jam session has details listing the date and participants.]]></text>
+				<asset id="mmw1" type="image" uri="fridaynightjamz.jpg" weight="88" preload="true"/>
+				<link id="" url="http://fridaynightjamz.com">View Site</link>
+			</project>
+			<project id="cmap">
+				<text id="title">MentalModeler</text>
+				<text id="role">Lead Developer (Javascript and ActionScript), Visual Designer, and Interaction Designer</text>
+				<text id="descr"><![CDATA[This project that began as a prototype developed for a science professor at UMass Boston, who is developing software for creating fuzzy logic cognitive maps. He needed a concept mapping tool that was limited in scope to his needs and provided a very intuitive user experience. The prototype i developed was well received and helped him win a National Science Foundation grant, which has provide development funding for the next 3 years, and i continued to refined the prototype and add more features.<br/><br/>I was then employed to build a web-based version of their .net desktop app, which integrated with the actionscript concept mapping tool (i'm working on a javascript port of that piece now utilizing the jsPlumb library). I did all the design and development for this (HTML/CSS/Javascript), making a single page webapp with Backbone.js that utilizes the Javascript FileReader API for reading files and Actionscript and the flash plugin for writing files to the local file system.<br/><br/><p>I also made a small one-page scroller promotional site for the mental modeler, where new users could register for free access to the tool, as well as a similarly styled one-page scroller site for the Principal Investigator's UMass Boston Human-Environment Interactions Lab. The lab site is responsively designed.]]></text>
+				<asset id="mmw1" type="image" uri="mentalmodeler-js_go.png" weight="106" preload="true"/>
+				<asset id="mmw1" type="image" uri="mentalmodeler_web.jpg" weight="33" preload="true"/>
+				<asset id="mm1" type="image" uri="mm_scenario_1.jpg" weight="33" preload="true"/>
+				<asset id="mm2" type="image" uri="mm_scenario_2.jpg" weight="33" preload="true"/>
+				<asset id="mm3" type="image" uri="mm_scenario_3.jpg" weight="33" preload="true"/>
+				<asset id="mm4" type="image" uri="mm_scenario_4.jpg" weight="33" preload="true"/>
+				<!-- <asset id="mm1" type="image" uri="mentalmodeler.jpg" weight="33" preload="true"/> -->
+				<link id="" url="http://jonnybomb.com/mentalmodeler">Concept Mapping Tool (React Javascript version)</link>
+				<link id="" url="http://jonnybomb.com/umasslab">Human-Environment Interactions Lab</link>
+				<link id="" url="http://mentalmodeler.com">Promotional Site</link>
+			</project>
+			<project id="mikeparsons">
+				<text id="title">Mike Parsons</text>
+				<text id="role">Lead Designer and Developer</text>
+				<text id="descr">For this project, my goal was to design a clean and minimal site that would visually conform to the size of the browser window and let Mike's art work take front stage.  I also succeed in providing an easy way for Mike to configure the structure of the site and update his work by using Flickr to manage his content. This project was done in HTML/CSS/JavaScript to allow for viewing on mobile devices as well as desktops and laptops.</text>
+				<asset id="mikep1" type="image" uri="mikedparsons_go.jpg" weight="78" preload="true"/>
+				<link id="" url="http://www.mikedparsons.com">View Site</link>
+			</project>
 			<project id="abbi">
 				<text id="title">ABBI</text>
 				<text id="role">Lead UI/UX, Senior Front-End Developer</text>
@@ -31,27 +60,6 @@
 				<asset id="abbi16" type="image" uri="abbi_create_item_moduleCSS.jpg" weight="33" preload="true"/>
 				<asset id="abbi17" type="image" uri="abbi_edit_item_previewMode_itemLayout.jpg" weight="33" preload="true"/>
 				<link id="" url="http://abbi.pearson.com">View Project (password protected - please inquire for a tour)</link>
-			</project>
-			<project id="cmap">
-				<text id="title">MentalModeler</text>
-				<text id="role">Lead Developer (JavaScript and ActionScript), Visual Designer, and Interaction Designer</text>
-				<text id="descr"><![CDATA[This project that began as a prototype developed for a science professor at UMass Boston, who is developing software for creating fuzzy logic cognitive maps. He needed a concept mapping tool that was limited in scope to his needs and provided a very intuitive user experience. The prototype i developed was well received and helped him win a National Science Foundation grant, which has provide development funding for the next 3 years, and i continued to refined the prototype and add more features.<br/><br/>I was then employed to build a web-based version of their .net desktop app, which integrated with the actionscript concept mapping tool (i'm working on a javascript port of that piece now utilizing the jsPlumb library). I did all the design and development for this (HTML/CSS/Javascript), making a single page webapp with Backbone.js that utilizes the Javascript FileReader API for reading files and Actionscript and the flash plugin for writing files to the local file system.<br/><br/><p>I also made a small one-page scroller promotional site for the mental modeler, where new users could register for free access to the tool, as well as a similarly styled one-page scroller site for the Principal Investigator's UMass Boston Human-Environment Interactions Lab. The lab site is responsively designed.]]></text>
-				<asset id="mmw1" type="image" uri="mentalmodeler_web.jpg" weight="33" preload="true"/>
-				<asset id="mm1" type="image" uri="mm_scenario_1.jpg" weight="33" preload="true"/>
-				<asset id="mm2" type="image" uri="mm_scenario_2.jpg" weight="33" preload="true"/>
-				<asset id="mm3" type="image" uri="mm_scenario_3.jpg" weight="33" preload="true"/>
-				<asset id="mm4" type="image" uri="mm_scenario_4.jpg" weight="33" preload="true"/>
-				<asset id="mm1" type="image" uri="mentalmodeler.jpg" weight="33" preload="true"/>
-				<link id="" url="http://mentalmodeler.com/scenario">Concept Mapping Tool (password protected - please inquire for a tour)</link>
-				<link id="" url="http://jonnybomb.com/umasslab">Human-Environment Interactions Lab</link>
-				<link id="" url="http://mentalmodeler.com">Promotional Site</link>
-			</project>
-			<project id="mikeparsons">
-				<text id="title">Mike Parsons</text>
-				<text id="role">Lead Designer and Developer</text>
-				<text id="descr">For this project, my goal was to design a clean and minimal site that would visually conform to the size of the browser window and let Mike's art work take front stage.  I also succeed in providing an easy way for Mike to configure the structure of the site and update his work by using Flickr to manage his content. This project was done in HTML/CSS/JavaScript to allow for viewing on mobile devices as well as desktops and laptops.</text>
-				<asset id="mikep1" type="image" uri="mikedparsons.jpg" weight="75" preload="true"/>
-				<link id="" url="http://www.mikedparsons.com">View Site</link>
 			</project>
 			<project id="beats">
 				<text id="title">Beats Music Sentence Share</text>
